@@ -1,5 +1,5 @@
 OK: file codeforces.id is correct
-CHECK: 20231128-213230
+CHECK: 20231211-030416
 OK: folder prj.codeforces structure is correct
 ERROR: file CMakeLists.txt is absent
 ERROR: file prj.codeforces/CMakeLists.txt is absent
